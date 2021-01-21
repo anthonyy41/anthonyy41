@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyy41&show_icons=true&theme=onedark)     
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyy41&theme=vue-dark&hide=java)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyy41&theme=vue-dark&hide=java)-->
 
 
 
